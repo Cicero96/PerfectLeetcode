@@ -10,3 +10,7 @@
 | 954  | [Array of Doubled Pairs](./solutions/python/0954.py) | Medium
 | 955  | [Delete Columns to Make Sorted II](./solutions/python/0955.py) | Medium
 | 956  | [Tallest Billboard](./solutions/python/0956.py) | Hard
+| 957  | [Prison Cells After N Days](./solutions/python/0957.py) | Medium
+| 958  | [Check Completeness of a Binary Tree](./solutions/python/0958.py) | Medium
+| 959  | [Regions Cut By Slashes](./solutions/python/0959.py) | Medium
+| 960  | [Delete Columns to Make Sorted III](./solutions/python/0960.py) | Hard
