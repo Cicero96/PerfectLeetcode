@@ -14,3 +14,7 @@
 | 958  | [Check Completeness of a Binary Tree](./solutions/python/0958.py) | Medium
 | 959  | [Regions Cut By Slashes](./solutions/python/0959.py) | Medium
 | 960  | [Delete Columns to Make Sorted III](./solutions/python/0960.py) | Hard
+| 961  | [N-Repeated Element in Size 2N Array](./solutions/python/0961.py) | Easy
+| 962  | [Maximum Width Ramp](./solutions/python/0962.py) | Medium
+| 963  | [Minimum Area Rectangle II](./solutions/python/0963.py) | Medium
+| 964  | [Least Operators to Express Number](./solutions/python/0964.py) | Hard
