@@ -18,3 +18,7 @@
 | 962  | [Maximum Width Ramp](./solutions/python/0962.py) | Medium
 | 963  | [Minimum Area Rectangle II](./solutions/python/0963.py) | Medium
 | 964  | [Least Operators to Express Number](./solutions/python/0964.py) | Hard
+| 965  | [Univalued Binary Tree](./solutions/python/0965.py) | Easy
+| 966  | [Vowel Spellchecker](./solutions/python/0966.py) | Medium
+| 967  | [Numbers With Same Consecutive Differences](./solutions/python/0967.py) | Medium
+| 968  | [Binary Tree Cameras](./solutions/python/0968.py) | Hard
